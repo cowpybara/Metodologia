@@ -1,0 +1,7 @@
+C:\Users\cowpy\OneDrive\Escritorio\Metodologia\TiposDatos\bin\Debug\TiposDatos.exe.config
+C:\Users\cowpy\OneDrive\Escritorio\Metodologia\TiposDatos\bin\Debug\TiposDatos.exe
+C:\Users\cowpy\OneDrive\Escritorio\Metodologia\TiposDatos\bin\Debug\TiposDatos.pdb
+C:\Users\cowpy\OneDrive\Escritorio\Metodologia\TiposDatos\obj\Debug\TiposDatos.csproj.AssemblyReference.cache
+C:\Users\cowpy\OneDrive\Escritorio\Metodologia\TiposDatos\obj\Debug\TiposDatos.csproj.CoreCompileInputs.cache
+C:\Users\cowpy\OneDrive\Escritorio\Metodologia\TiposDatos\obj\Debug\TiposDatos.exe
+C:\Users\cowpy\OneDrive\Escritorio\Metodologia\TiposDatos\obj\Debug\TiposDatos.pdb
